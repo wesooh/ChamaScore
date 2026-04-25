@@ -6,7 +6,7 @@
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/4dd5f1d6-1699-47ae-aa05-e6537ab51844
+View your app in AI Studio: https://chama-score-p1c6yvj9r-wesleys-projects-2a2d1438.vercel.app/
 
 ## Run Locally
 
