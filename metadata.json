@@ -1,0 +1,6 @@
+{
+  "name": "ChamaScore",
+  "description": "AI-powered credit scoring for Kenyan investment groups (Chamas), analyzing mobile money and group contribution history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
